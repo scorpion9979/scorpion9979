@@ -1,4 +1,4 @@
-![my github stats](https://github-readme-stats.vercel.app/api?username=scorpion9979)
+![my github stats](https://github-readme-stats.vercel.app/api?username=scorpion9979&count_private=true&show_icons=true&theme=graywhite)
 
 <!--
 **scorpion9979/scorpion9979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
