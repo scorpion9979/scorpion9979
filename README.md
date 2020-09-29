@@ -1,4 +1,4 @@
-![my github stats](https://github-readme-stats.vercel.app/api?username=scorpion9979&custom_title=Ahmed's+GitHub+Stats&count_private=true&show_icons=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=scorpion9979&custom_title=Ahmed's+GitHub+Stats&count_private=true&theme=graywhite)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion9979&layout=compact&theme=graywhite&langs_count=8&card_width=445)-->
 <!--
 **scorpion9979/scorpion9979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
