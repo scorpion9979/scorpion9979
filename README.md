@@ -1,5 +1,15 @@
-![my github stats](https://github-readme-stats.vercel.app/api?username=scorpion9979&custom_title=Ahmed's+GitHub+Stats&count_private=true&theme=graywhite)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion9979&layout=compact&theme=graywhite&langs_count=8&card_width=445)-->
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=scorpion9979&custom_title=Ahmed's+GitHub+Stats&count_private=true&theme=graywhite"
+        alt="my github stats"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion9979&layout=compact&theme=graywhite&count_private=true&langs_count=12"
+        alt="Top Langs"
+    />
+</p>
 <!--
 **scorpion9979/scorpion9979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
