@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
     />
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion9979&layout=compact&theme=graywhite&count_private=true&langs_count=12&card_width=445"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion9979&layout=compact&theme=graywhite&count_private=true&langs_count=12"
         alt="Top Langs"
     />
 </p>
