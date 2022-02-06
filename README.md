@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently discovering the blockchain space
 - 💻 Working as a full-stack blockchain engineer at Hifi Finance
-- 🌱 I’m currently contributing to the Solidity learning community at [StackExchange](https://ethereum.stackexchange.com/users/51644/scorpion9979)
+- 🌱 I’m also contributing to the Solidity learning community at [StackExchange](https://ethereum.stackexchange.com/users/51644/scorpion9979)
 - 📫 How to reach me: [Email me](mailto:ahmed.i.tawfeeq@protonmail.com) or [Twitter DMs](https://twitter.com/scorpion9979)!
 
 <p align="center">
