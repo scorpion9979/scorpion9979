@@ -1,5 +1,6 @@
 ## Hi there, I'm Ahmed 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/scorpion9979?style=social)](https://twitter.com/intent/follow?screen_name=scorpion9979) [![GitHub User's stars](https://img.shields.io/github/stars/scorpion9979?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/scorpion9979?tab=stars)
+[![wakatime](https://wakatime.com/badge/user/cf6d533b-aee6-436c-a298-2aa342a3aa6b.svg?style=plastic)](https://wakatime.com/@cf6d533b-aee6-436c-a298-2aa342a3aa6b)
+[![Twitter Follow](https://img.shields.io/twitter/follow/scorpion9979?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=scorpion9979)
 
 
 - 🔭 I’m currently discovering the blockchain space
