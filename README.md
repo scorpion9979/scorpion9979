@@ -7,7 +7,7 @@
 - 🌱 I’m also contributing to the Solidity learning community at [StackExchange](https://ethereum.stackexchange.com/users/51644/scorpion9979)
 - 📫 How to reach me: [Email me](mailto:ahmed.i.tawfeeq@proton.me) or [Twitter DMs](https://twitter.com/scorpion9979)!
 
-<p align="center">
+<!-- <p align="center">
     <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=scorpion9979&custom_title=Ahmed's+GitHub+Stats&count_private=true&theme=graywhite"
@@ -18,4 +18,4 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion9979&layout=compact&theme=graywhite&count_private=true&langs_count=12"
         alt="Top Langs"
     />
-</p>
+</p> -->
