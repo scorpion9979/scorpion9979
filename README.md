@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently discovering the blockchain space
-- 💻 Working as a Solidity engineer at Hifi Finance
+- 💻 Working as a Solidity engineer at Wintermute
 - 🌱 I’m also contributing to the Solidity learning community at [StackExchange](https://ethereum.stackexchange.com/users/51644/scorpion9979)
 - 📫 How to reach me: [Email me](mailto:ahmed.i.tawfeeq@proton.me) or [LinkedIn](https://www.linkedin.com/in/ahmedtawfeeq)!
 
