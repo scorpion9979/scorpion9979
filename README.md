@@ -4,7 +4,7 @@
 
 - 💻 I’m an EVM blockchain engineer
 - 🌱 I contribute to the Solidity learning community at [StackExchange](https://ethereum.stackexchange.com/users/51644/scorpion9979)
-- 📫 How to reach me: [Email me](mailto:ahmed.i.tawfeeq@proton.me) or [LinkedIn](https://www.linkedin.com/in/ahmedtawfeeq)!
+- 📫 How to reach me: [Email me](mailto:ahmed.i.tawfeeq@proton.me) or [Telegram](http://t.me/scorpion9979)!
 
 <!-- <p align="center">
     <img
